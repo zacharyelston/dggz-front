@@ -1,6 +1,7 @@
 # DGGRID Viewer Documentation
 
 Welcome to the DGGRID Viewer documentation. This application allows you to visualize and analyze discrete global grid systems.
+![Default Image](docs/assets/default.jpg)
 
 ## Table of Contents
 
